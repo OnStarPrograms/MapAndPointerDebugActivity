@@ -1,0 +1,3 @@
+/home/onstar/Documents/prog_linkedlistfinder/build/CMakeFiles/Gen.dir
+/home/onstar/Documents/prog_linkedlistfinder/build/CMakeFiles/edit_cache.dir
+/home/onstar/Documents/prog_linkedlistfinder/build/CMakeFiles/rebuild_cache.dir

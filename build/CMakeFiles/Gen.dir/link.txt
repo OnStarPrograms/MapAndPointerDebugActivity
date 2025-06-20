@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Gen.dir/main.cpp.o -o Gen 
