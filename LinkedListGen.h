@@ -43,9 +43,9 @@ class Gen{
         Gen(int m, int randsize = 0){
             if (m == 0){
                 while (randsize > 0){
-                    m+=rand()%10;
                     randsize/=10;
                     m*=10;
+                    m+=rand()%10;
                 }
             }
             int temp = m;
