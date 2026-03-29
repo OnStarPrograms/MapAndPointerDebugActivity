@@ -4,9 +4,9 @@
 
 This is an archived learning Activity designed for Programming 2 (COP3503) students to practice working with pointers through debugging and visualization exercises. The tool generates linked node structures that students must analyze using a debugger.
 
-## What This Tool Does
+## What This Activity Does
 
-The program creates a graph-like structure of interconnected Nodes. Each Node contains pointers to other Nodes (left, right, up, down). The Gen class generates different structures based on numeric input, creating various pointer connection patterns for students to trace and debug.
+The program creates a graph-like (like a maze) structure of interconnected Nodes. Each Node contains pointers to other Nodes (left, right, up, down). The Gen class generates different structures based on numeric input, creating various pointer connection patterns for students to trace and debug.
 
 ## Assignments
 
@@ -55,4 +55,4 @@ Compile with C++ compiler supporting C++11 or later.
 
 ---
 
-Tool archived: [Date]
+Tool archived: [March 29th, 2026]
